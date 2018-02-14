@@ -1,4 +1,4 @@
-# K8S - MYSQL GELERA CLUSTER UTF8
+# K8S - MYSQL GALERA CLUSTER UTF8
 
 This is taken from the Kubernetes examples and extended with ut8 settings.
 
